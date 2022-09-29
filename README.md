@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanbajait&label=Profile%20views&color=0e75b6&style=flat" alt="pavanbajait" /> </p>
 
 
-- 🌱 I’m currently learning **Java Developer**
+- 🌱 I’m currently learning **Java Development**
 
 - 👨‍💻 All of my projects are available at [Project](https://pavanbajait.netlify.app/#projects)
 
