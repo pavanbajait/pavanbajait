@@ -1,7 +1,7 @@
 
 [![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)](https://pavanbajait.io)
 <h1 align="center">Hi 👋, I'm Pavan Bajait</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate Java developer with the ability to write efficient code in Java & highly passionate about creating APIs and working with databases. Looking forward to working in an organization to upskill and contribute to the growth and development of the organization</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanbajait&label=Profile%20views&color=0e75b6&style=flat" alt="pavanbajait" /> </p>
